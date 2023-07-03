@@ -271,6 +271,10 @@ h6 {
   letter-spacing: 1px;
   border-bottom: 3px solid #f1823e;
 }
+#hero p a {
+  position: relative;
+  z-index: 2;
+}
 
 @media (min-width: 1024px) {
   #hero {
